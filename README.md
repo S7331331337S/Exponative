@@ -2,7 +2,7 @@
 
 > 🚀 **Production-Ready Expo Starter Kit** - Mobile app template with 20+ pre-built UI components, TypeScript, NativeWind (Tailwind CSS), and platform-specific behaviors for iOS/Android.
 
-[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/chvvkrishnakumar/expo-nativewind-template/releases)
+[![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://github.com/S7331331337S/Exponative/releases)
 [![Expo](https://img.shields.io/badge/Expo-SDK_56-000.svg?style=flat&logo=expo)](https://expo.dev)
 [![React Native](https://img.shields.io/badge/React%20Native-0.79.6-61DAFB.svg?style=flat&logo=react)](https://reactnative.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-blue.svg?style=flat&logo=typescript)](https://www.typescriptlang.org)
@@ -105,7 +105,7 @@ npx eas build --profile development --platform android
 
 1. **Clone the template**
    ```bash
-   git clone https://github.com/chvvkrishnakumar/expo-nativewind-template.git my-app
+   git clone https://github.com/S7331331337S/Exponative.git my-app
    cd my-app
    ```
 
@@ -292,11 +292,11 @@ eas build --platform android --profile production
 
 | Library | Version | Description | Documentation |
 |---------|---------|-------------|--------------|
-| [Expo SDK](https://expo.dev) | ~53.0.0 | React Native framework | [Docs](https://docs.expo.dev/) |
-| [React Native](https://reactnative.dev) | 0.74.5 | Mobile framework | [Docs](https://reactnative.dev/docs/getting-started) |
-| [TypeScript](https://www.typescriptlang.org) | ^5.3.3 | Type safety | [Docs](https://www.typescriptlang.org/docs/) |
-| [Expo Router](https://expo.github.io/router) | ~3.5.23 | File-based routing | [Docs](https://docs.expo.dev/router/introduction/) |
-| [NativeWind](https://www.nativewind.dev) | ^4.0.0 | Tailwind for RN | [Docs](https://www.nativewind.dev/v4/overview) |
+| [Expo SDK](https://expo.dev) | ~56.0.0 | React Native framework | [Docs](https://docs.expo.dev/) |
+| [React Native](https://reactnative.dev) | 0.85.3 | Mobile framework | [Docs](https://reactnative.dev/docs/getting-started) |
+| [TypeScript](https://www.typescriptlang.org) | ~6.0.3 | Type safety | [Docs](https://www.typescriptlang.org/docs/) |
+| [Expo Router](https://expo.github.io/router) | ~56.2.9 | File-based routing | [Docs](https://docs.expo.dev/router/introduction/) |
+| [NativeWind](https://www.nativewind.dev) | ^4.1.23 | Tailwind for RN | [Docs](https://www.nativewind.dev/v4/overview) |
 
 ### UI Libraries
 
@@ -372,7 +372,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏷️ Version
 
-Current version: **0.1.0** - See [CHANGELOG.md](CHANGELOG.md) for version history.
+Current version: **1.0.2** - See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ## 🙏 Acknowledgments
 
