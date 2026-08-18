@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-08-15
+
+### Changed
+- Updated repository metadata and documentation for the Exponative fork
+- Aligned version numbers across package.json, app.json, and VERSION
+
 ## [1.0.1] - 2025-06-09
 
 ### Added
@@ -76,4 +82,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Proper permission handling for camera, location, contacts, and media library
 - No hardcoded sensitive data
 
+[1.0.2]: https://github.com/S7331331337S/Exponative/releases/tag/v1.0.2
+[1.0.1]: https://github.com/chvvkrishnakumar/expo-nativewind-template/releases/tag/v1.0.1
 [0.1.0]: https://github.com/chvvkrishnakumar/expo-nativewind-template/releases/tag/v0.1.0

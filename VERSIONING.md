@@ -58,7 +58,9 @@ Before each release:
 
 | Version | Date | Description |
 |---------|------|-------------|
-| 0.1.0 | 2025-09-22 | Initial release |
+| 1.0.2 | 2026-08-15 | Fork metadata and documentation alignment |
+| 1.0.1 | 2025-06-09 | Expo SDK 56 upgrade (upstream) |
+| 0.1.0 | 2025-09-22 | Initial release (upstream) |
 
 ### 6. After Creating Remote Repository
 
@@ -67,7 +69,7 @@ Before each release:
 git init
 
 # Add remote repository
-git remote add origin https://github.com/chvvkrishnakumar/expo-nativewind-template.git
+git remote add origin https://github.com/S7331331337S/Exponative.git
 
 # Create initial commit
 git add .
